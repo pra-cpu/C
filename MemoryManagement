@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 int main() {
-  int i;
+  int i = 2;
 
- 
+  printf("%d\n", i);
   printf("%d\n", sizeof(i));
   printf("%d\n", sizeof(&i));
   printf("%d\n",sizeof(sizeof(&i)));
+
   return 0;
 }
