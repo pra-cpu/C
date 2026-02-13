@@ -2,7 +2,7 @@
 
 int main() {
 
-  int i = 1;
+  int i = 0;
   
   switch(i){
   	case 1: 
