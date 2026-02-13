@@ -5,5 +5,9 @@ cout << "you are from which college ?"
 cin.get(i, 1);
 cout << i; 
 https://library-management-website.netlify.app/collegeform
+<!-- Main Heading -->
 
+<!-- Personalized Name Blocks -->
+
+<!-- Introduction Section-->
 
